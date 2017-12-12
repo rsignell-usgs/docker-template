@@ -1,4 +1,4 @@
-docker run \
+docker run --rm \
     -e CERTS=do.maltlab.com \
     -e EMAIL=rsignell@usgs.gov \
     -v /opt/docker/brad/dhparam:/etc/ssl/dhparam \
