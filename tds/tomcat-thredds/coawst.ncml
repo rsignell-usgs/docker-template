@@ -1,0 +1,7 @@
+                <netcdf xmlns="http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2">
+                    <aggregation dimName="runtime" type="forecastModelRunCollection" timeUnitsChange="true" recheckEvery="10min">
+                        <scan location="/usgs/data0/barmstrong/coawst/coawst_2/Output" 
+                            regExp=".*coawst.*\.nc$" dateFormatMark="coawst_us_#yyyyMMdd_HH"
+                            subdirs="false" olderThan="5 min"/>
+                    </aggregation>
+                </netcdf>

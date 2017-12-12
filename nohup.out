@@ -1,0 +1,202 @@
+HTTPConnectionPool(host='129.206.228.72', port=80): Read timed out. (read timeout=30)
+[I 12:12:20.115 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 1.70ms
+[I 12:12:20.152 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 1.88ms
+[I 12:12:43.233 NotebookApp] 302 POST /jupyter/login?next=%2Fjupyter%2Ftree (172.17.0.4) 3.40ms
+[I 12:13:24.898 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 12:14:37.267 NotebookApp] Kernel interrupted: 0e891000-351a-4608-96c4-d4bcf567e822
+[I 12:14:57.348 NotebookApp] Kernel restarted: 0e891000-351a-4608-96c4-d4bcf567e822
+[I 12:14:58.268 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[IPKernelApp] WARNING | Widget Javascript not detected.  It may not be installed or enabled properly.
+[I 12:18:11.955 NotebookApp] Kernel interrupted: 0e891000-351a-4608-96c4-d4bcf567e822
+[I 12:18:22.846 NotebookApp] 302 GET /jupyter/api/sessions?_=1500480962723 (172.17.0.4) 4.10ms
+[I 12:18:22.850 NotebookApp] 302 GET /jupyter/api/terminals?_=1500480962724 (172.17.0.4) 2.20ms
+[W 12:35:30.883 NotebookApp] WebSocket ping timeout after 119922 ms.
+[W 12:35:51.747 NotebookApp] WebSocket ping timeout after 119869 ms.
+[W 13:16:32.959 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 13:21:50.218 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 13:25:01.390 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 13:25:01.422 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 16:45:01.393 NotebookApp] WebSocket ping timeout after 119996 ms.
+[W 16:45:01.423 NotebookApp] WebSocket ping timeout after 119996 ms.
+[W 17:55:50.221 NotebookApp] WebSocket ping timeout after 119996 ms.
+[I 06:22:32.484 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 06:48:42.064 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 06:48:42.643 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[W 06:51:12.066 NotebookApp] WebSocket ping timeout after 119947 ms.
+[W 06:51:12.644 NotebookApp] WebSocket ping timeout after 119912 ms.
+[W 07:47:32.487 NotebookApp] WebSocket ping timeout after 119979 ms.
+[I 08:47:24.794 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 09:24:24.797 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 09:30:51.512 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 09:47:21.515 NotebookApp] WebSocket ping timeout after 119997 ms.
+[I 09:49:50.502 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 09:49:50.536 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 09:53:22.611 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 10:15:20.505 NotebookApp] WebSocket ping timeout after 119972 ms.
+[W 10:15:20.537 NotebookApp] WebSocket ping timeout after 119994 ms.
+[I 10:16:13.143 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 10:16:13.181 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[W 12:33:13.146 NotebookApp] WebSocket ping timeout after 119995 ms.
+[I 13:11:55.033 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 13:31:22.614 NotebookApp] WebSocket ping timeout after 119996 ms.
+[I 13:33:29.467 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 15:05:25.036 NotebookApp] WebSocket ping timeout after 119979 ms.
+[I 15:06:19.290 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 15:22:49.293 NotebookApp] WebSocket ping timeout after 119929 ms.
+[I 15:41:04.621 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 15:44:34.624 NotebookApp] WebSocket ping timeout after 119996 ms.
+[I 05:48:11.121 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[W 05:50:41.125 NotebookApp] WebSocket ping timeout after 119951 ms.
+[I 09:24:45.331 NotebookApp] Adapting to protocol v5.1 for kernel 0e891000-351a-4608-96c4-d4bcf567e822
+[I 16:09:38.266 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 1.55ms
+[I 16:09:46.909 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:11:46.851 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:46:46.003 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:46:47.243 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:47:46.692 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:49:47.307 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:55:46.919 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:55:47.769 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:55:48.967 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:56:42.614 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:56:43.918 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:57:46.690 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:59:46.868 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:01:47.033 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:05:46.968 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:07:47.053 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 13:04:50.341 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 2.95ms
+[I 13:04:59.894 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 13:06:59.990 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 09:35:18.254 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 1.64ms
+[I 09:35:18.263 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.19ms
+[I 09:35:32.004 NotebookApp] 302 POST /jupyter/login?next=%2Fjupyter%2Ftree (172.17.0.4) 2.76ms
+[I 10:48:29.924 NotebookApp] Kernel started: 2bcd189c-2478-42ad-8fee-77d63ecb1a7a
+[I 10:48:30.931 NotebookApp] Adapting to protocol v5.0 for kernel 2bcd189c-2478-42ad-8fee-77d63ecb1a7a
+[I 10:48:35.047 NotebookApp] Saving file at /dask/Untitled.ipynb
+[I 10:48:46.844 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 15:20:33.188 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 2.84ms
+[I 15:20:33.280 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 1.88ms
+[I 15:20:35.736 NotebookApp] 302 POST /jupyter/login?next=%2Fjupyter%2Ftree (172.17.0.4) 2.71ms
+[I 15:21:20.902 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 15:23:21.339 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:17:50.388 NotebookApp] Creating new notebook in /coawst
+[I 16:17:51.940 NotebookApp] Kernel started: 30afe4d0-749e-4334-92ee-18133b894599
+[I 16:17:52.873 NotebookApp] Adapting to protocol v5.1 for kernel 30afe4d0-749e-4334-92ee-18133b894599
+[I 16:18:09.592 NotebookApp] Kernel interrupted: 30afe4d0-749e-4334-92ee-18133b894599
+[I 16:18:10.359 NotebookApp] Kernel interrupted: 30afe4d0-749e-4334-92ee-18133b894599
+[I 16:18:35.246 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:19:20.366 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:19:21.518 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:19:24.467 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:19:26.807 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:19:27.987 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:21:24.786 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:23:24.796 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:25:24.957 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:27:24.791 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:29:24.864 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:03:25.591 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:09:24.785 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:11:24.794 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:13:24.862 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:17:24.905 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:18:14.651 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 17:18:15.861 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 17:18:37.208 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 18:01:25.719 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:55:30.950 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:55:45.173 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:55:46.394 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:57:30.938 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:59:30.934 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:17:31.100 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:21:30.786 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:23:30.959 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:29:31.046 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:31:30.965 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:33:31.025 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:34:32.069 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:34:34.173 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 17:57:17.702 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.14ms
+[I 17:57:18.092 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 1.34ms
+[I 16:05:32.424 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 16:11:38.524 NotebookApp] Adapting to protocol v5.1 for kernel 30afe4d0-749e-4334-92ee-18133b894599
+[I 16:13:38.282 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:15:32.493 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:15:38.284 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:19:32.480 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 16:19:38.289 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:21:38.820 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:23:38.741 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:25:38.488 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 16:27:38.604 NotebookApp] Saving file at /coawst/Untitled.ipynb
+[I 17:16:58.432 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 1.71ms
+[I 17:16:58.707 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 1.76ms
+[I 17:17:08.122 NotebookApp] 302 POST /jupyter/login?next=%2Fjupyter%2Ftree (172.17.0.4) 3.27ms
+[I 17:18:07.291 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 17:18:43.432 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[W 17:18:43.439 NotebookApp] zmq message arrived on closed channel
+[I 17:18:44.618 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 17:20:07.807 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[W 17:29:44.621 NotebookApp] WebSocket ping timeout after 119922 ms.
+[I 17:58:20.630 NotebookApp] Adapting to protocol v5.1 for kernel 30afe4d0-749e-4334-92ee-18133b894599
+[I 17:58:44.851 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 18:00:20.744 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 18:00:45.484 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 18:06:16.172 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.34ms
+[I 18:06:30.587 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 06:31:56.356 NotebookApp] Adapting to protocol v5.1 for kernel 30afe4d0-749e-4334-92ee-18133b894599
+[I 06:33:56.366 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 06:35:56.224 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 06:37:56.304 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 06:39:56.286 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 06:40:59.562 NotebookApp] Saving file at /coawst/Matplotlib experimentation.ipynb
+[I 06:41:09.244 NotebookApp] Kernel shutdown: 30afe4d0-749e-4334-92ee-18133b894599
+[I 06:41:17.215 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[W 06:43:47.218 NotebookApp] WebSocket ping timeout after 119960 ms.
+[I 06:44:19.013 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 06:46:19.295 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[W 06:47:30.451 NotebookApp] Replacing stale connection: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204:5FB6EDB3A00F4D1B80093E487505091B
+[I 06:47:35.454 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 06:48:19.353 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 06:52:20.443 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 06:54:19.234 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[W 06:59:26.328 NotebookApp] Replacing stale connection: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204:5FB6EDB3A00F4D1B80093E487505091B
+[I 06:59:31.331 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 07:10:19.716 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 07:11:53.857 NotebookApp] Kernel restarted: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 07:11:55.101 NotebookApp] Adapting to protocol v5.1 for kernel 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 07:12:19.755 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 07:12:58.654 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 07:13:09.394 NotebookApp] Kernel shutdown: 76c837c8-12ae-4beb-bf38-3fb1ad1fb204
+[I 07:13:36.439 NotebookApp] Kernel started: ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[I 07:13:37.330 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[I 08:00:42.168 NotebookApp] 302 GET /jupyter/notebooks/coawst/ipympl%20test.ipynb (172.17.0.4) 2.58ms
+[W 08:17:07.333 NotebookApp] WebSocket ping timeout after 119959 ms.
+[I 08:28:23.389 NotebookApp] 302 GET /jupyter/notebooks/coawst/ipympl%20test.ipynb (172.17.0.4) 2.45ms
+[I 08:28:28.359 NotebookApp] 302 POST /jupyter/login?next=%2Fjupyter%2Fnotebooks%2Fcoawst%2Fipympl%2520test.ipynb (172.17.0.4) 2.62ms
+[I 08:29:17.201 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[I 08:31:57.065 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[I 13:10:03.714 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[W 13:21:51.342 NotebookApp] Replacing stale connection: ceac1ebb-32cd-482c-b589-ff4e5c3084cf:5A2E2E6A8E03443F9E1CA782D40AFD1C
+[I 13:21:56.346 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[W 13:32:15.563 NotebookApp] Replacing stale connection: ceac1ebb-32cd-482c-b589-ff4e5c3084cf:5A2E2E6A8E03443F9E1CA782D40AFD1C
+[I 13:32:20.566 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[W 14:44:39.100 NotebookApp] Replacing stale connection: ceac1ebb-32cd-482c-b589-ff4e5c3084cf:5A2E2E6A8E03443F9E1CA782D40AFD1C
+[I 14:44:44.104 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[W 14:44:58.807 NotebookApp] Replacing stale connection: ceac1ebb-32cd-482c-b589-ff4e5c3084cf:5A2E2E6A8E03443F9E1CA782D40AFD1C
+[I 14:45:03.810 NotebookApp] Adapting to protocol v5.1 for kernel ceac1ebb-32cd-482c-b589-ff4e5c3084cf
+[I 14:48:04.057 NotebookApp] Saving file at /coawst/ipympl test.ipynb
+[I 18:58:33.233 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.20ms
+[I 16:45:53.399 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.35ms
+[I 19:00:30.728 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.37ms
+[I 15:38:53.467 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.36ms
+[I 08:44:11.010 NotebookApp] 302 GET /jupyter/ (172.17.0.4) 1.58ms
+[I 08:44:11.547 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 1.74ms
+[W 09:01:44.112 NotebookApp] 404 GET /jupyter/kernelspecs (172.17.0.4) 22.32ms referer=None
+[I 09:02:09.876 NotebookApp] 302 GET /jupyter/tree (172.17.0.4) 2.17ms
+[W 09:02:33.060 NotebookApp] 404 GET /jupyter/custom (172.17.0.4) 3.79ms referer=None
+[W 09:02:58.079 NotebookApp] 404 GET /jupyter/nbextensions (172.17.0.4) 3.87ms referer=None
+[W 09:03:26.174 NotebookApp] 404 GET /jupyter/static/ (172.17.0.4) 3.43ms referer=None
+[I 15:49:46.188 NotebookApp] 302 GET /jupyter/ (172.17.0.8) 1.59ms

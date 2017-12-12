@@ -1,0 +1,23 @@
+ <datasetScan name="USGS NetCDF files on data2" ID="clay/usgs/Projects" path="clay/usgs/Projects"
+    location="/clay/usgs/Projects">
+   <metadata inherited="true">
+     <serviceName>allServices</serviceName>
+    </metadata>
+    <filter>
+      <include wildcard="*.ncml"/>  
+      <include wildcard="*.nc"/>  
+      <include wildcard="*.txt"/>  
+      <include wildcard="*.grd"/>  
+      <include wildcard="*.nc.gz"/>  
+      <include wildcard="*.cdf"/>
+      <include wildcard="*.grib"/>
+      <include wildcard="*.grb"/>
+      <include wildcard="*.grb2"/>
+      <include wildcard="*.grib2"/>
+      <include wildcard="*_00_00"/>
+    </filter>
+    <sort>
+      <lexigraphicByName increasing="true"/>
+    </sort>
+    <addDatasetSize/>
+  </datasetScan>

@@ -1,0 +1,21 @@
+ <netcdf xmlns="http://www.unidata.ucar.edu/namespaces/netcdf/ncml-2.2" location="/usgs/data0/bathy/ngdc/nantucket_ma.nc">
+        <variable name="topo" orgName="Band1">
+          <attribute name="units" value="m"/>
+          <attribute name="long_name" value="Topography"/>
+        </variable>
+  <dimension name="lon" orgName="x"/>
+  <dimension name="lat" orgName="y"/>
+
+
+  <variable name="lon" shape="lon" type="double">
+    <attribute name="units" value="degrees_east"/>
+    <values start="-70.67" increment="9.25926e-05"/>
+  </variable>
+
+  <variable name="lat" shape="lat" type="double">
+    <attribute name="units" value="degrees_north"/>
+    <values start="41.71" increment="-9.25926e-05"/>
+  </variable>
+
+  <attribute name="Conventions" value="COARDS"/>
+    </netcdf>

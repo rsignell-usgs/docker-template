@@ -1,0 +1,7 @@
+docker run -it --rm \
+      -v /opt/docker/nginx/certs:/etc/letsencrypt \
+      -v /opt/docker/nginx/certs-data:/data/letsencrypt \
+      deliverous/certbot \
+      certonly \
+      --webroot --webroot-path=/data/letsencrypt \
+      -d gamone.whoi.edu

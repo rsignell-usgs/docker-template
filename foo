@@ -1,0 +1,11 @@
+# jupyterhub
+
+  location /hub/ {
+    proxy_pass http://gamone:8070/hub/; 
+    proxy_set_header Host $host;
+    proxy_read_timeout 3600;
+    include /etc/nginx/conf.d/include/cors.include;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header Host $host;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+  }

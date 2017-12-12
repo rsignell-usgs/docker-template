@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 -p 8443:8443 -v /opt/docker/tds-dev/tomcat-thredds:/opt/tomcat/content/thredds -v /opt/docker/tds-dev/tomcat-thredds/tomcat-users.xml:/opt/tomcat/conf/tomcat-users.xml -v /usgs:/usgs -v /clay/usgs:/clay/usgs --name tds-dev   axiom/docker-thredds:4.6

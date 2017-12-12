@@ -1,0 +1,2 @@
+2017-08-02 10:59:38,711 CRIT Supervisor running as root (no user in config file)
+2017-08-02 10:59:38,720 CRIT Server 'inet_http_server' running without any HTTP authentication checking
