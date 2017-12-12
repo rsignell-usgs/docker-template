@@ -1,7 +1,7 @@
 # docker-template
 ### template for running ERDDAP, THREDDS, NGINX docker containers
 
-1. Setup a ubuntu machine with plenty of RAM.  I used digitalocean to create a droplet with Ubuntu 16.04, 16GB RAM, 160GB disk.  This instance is $160/month, but I'm only going to use it for two days before destroying it, so about $11)
+1. Setup a ubuntu or centos machine with plenty of RAM.  I used digitalocean to create a droplet with Ubuntu 16.04, 16GB RAM, 160GB disk.  This instance is $160/month, but I'm only going to use it for two days before destroying it, so about $11)
 
 2. Set up your endpoint name.  I used "do.maltlab.com" because I own the maltlab.com domain.  I set up the custom nameservers for maltlab.com following the instructions on https://cloud.digitalocean.com/networking. Let's say your endpoint is "mythredds.com".
 
