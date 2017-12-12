@@ -38,6 +38,6 @@
   <!--
   <user username="admin" password="db414143c9d5eec4a51d097f3bb02f42e79520af" roles="admin,manager,tdsConfig"/>
    -->
-  <user username="admin" password="change-me-sha1-xxxxxxxxxxxxxxxxxxxxxxx" roles="manager-gui,tdsConfig"/>
+  <user username="admin" password="changeme-sha1-xxxxxxxxxxxxxxxxxxxxxxx" roles="manager-gui,tdsConfig"/>
 </tomcat-users>
 
