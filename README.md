@@ -66,7 +66,8 @@ cd /opt/docker
 grep 'changeme' -r *
 ```
 and edit the `tomcat-users.xml` files to enter your SHA1 passwords (can use http://www.sha1-online.com/ to generate)
-13. Bounce the containers
+
+13. Bounce the Docker containers
 ```
 cd /opt/docker
 docker-compose down
