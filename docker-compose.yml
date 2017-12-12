@@ -27,7 +27,7 @@ nginx:
     - /opt/docker/nginx/conf.d/brad.conf:/etc/nginx/conf.d/brad.conf
     - /opt/docker/nginx/conf.d/include/cors.include:/etc/nginx/conf.d/include/cors.include
   environment:
-    - "CERTS=gamone.whoi.edu"
+    - "CERTS=do.maltlab.com"
     - "EMAIL=rsignell@usgs.gov"
 
 ###
