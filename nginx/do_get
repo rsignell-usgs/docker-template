@@ -1,7 +1,7 @@
-docker run -it --rm \
-      -v /opt/docker/nginx/certs:/etc/letsencrypt \
-      -v /opt/docker/nginx/certs-data:/data/letsencrypt \
-      deliverous/certbot \
-      certonly \
-      --webroot --webroot-path=/data/letsencrypt \
-      -d gamone.whoi.edu
+docker run \
+    -e CERTS=do.maltlab.com \
+    -e EMAIL=rsignell@usgs.gov \
+    -v /opt/docker/brad/dhparam:/etc/ssl/dhparam \
+    -v /opt/docker/brad/letsencrypt:/etc/letsencrypt \
+    -p 80:80 -p 443:443 \
+    bradjonesllc/docker-nginx-letsencrypt

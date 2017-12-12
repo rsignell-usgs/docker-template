@@ -24,6 +24,7 @@ nginx:
   volumes:
     - /opt/docker/brad/dhparam:/etc/ssl/dhparam 
     - /opt/docker/brad/letsencrypt:/etc/letsencrypt 
+    - /opt/docker/nginx/html:/etc/nginx/html
     - /opt/docker/nginx/conf.d/brad.conf:/etc/nginx/conf.d/brad.conf
     - /opt/docker/nginx/conf.d/include/cors.include:/etc/nginx/conf.d/include/cors.include
   environment:
