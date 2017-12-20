@@ -18,7 +18,7 @@ cd xsede-jetstream
 chmod +x docker-install.sh
 ./docker-install.sh -u rsignell
 ```
-Note: the docker install script logs you off part way through, so you need to log back in and run again to complete.
+Note: the docker install script logs you off so that changes can take effect, so you need to log back in.
 
 5. Get Rich's configuration template for pycsw, thredds, erddap and nginx (with let's encrypt):
 ```
